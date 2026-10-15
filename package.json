@@ -1,0 +1,9 @@
+{
+  "name": "mani-fsd-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix Mani_Fsd run dev -- --host 0.0.0.0",
+    "build": "npm --prefix Mani_Fsd run build",
+    "preview": "npm --prefix Mani_Fsd run preview -- --host 0.0.0.0"
+  }
+}
